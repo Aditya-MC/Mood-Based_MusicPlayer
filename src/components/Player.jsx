@@ -6,16 +6,16 @@ import React, { useEffect, useRef, useState } from 'react'
  */
 const PLAYLISTS = {
   happy: [
-    { title: 'Aaluma Doluma', src: '/music/Aaluma-Doluma.mp3' }
+    { title: 'Happy', src: '/music/Feel-Good(chosic.com).mp3' }
   ],
   sad: [
-    { title: 'Oorai Therinjikiten', src: '/music/Oorai Therinjukitten.mp3' }
+    { title: 'SAD', src: '/music/Abandoned-Dramatic-Melancholic-Music-chosic.com_.mp33' }
   ],
   angry: [
-    { title: 'Fire Up', src: '/music/Neruppu-Da.mp3' }
+    { title: 'Fire Up', src: '/music/Gaming(chosic.com).mp3' }
   ],
   relaxed: [
-    { title: 'Kutty Story', src: '/music/Kutti-Story-MassTamilan.io.mp3' }
+    { title: 'Relaxed', src: '/music/Memories-of-Spring(chosic.com).mp3' }
   ]
 }
 
